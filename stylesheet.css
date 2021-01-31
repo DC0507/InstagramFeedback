@@ -1,0 +1,44 @@
+.wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	display: block;
+}
+.wrapper > div{
+	background: white;
+	margin-bottom: 60px;
+}
+
+header, footer{
+	width: 100%;
+	padding: 5px;
+}
+
+header h3{
+	float: left;
+}
+
+header p{
+	color: gray;
+	margin-left: 450px;
+}
+section img{
+	width: 100%;
+	max-height: 512px;
+}
+
+.bodytitle {
+	background-color: white;
+	padding: 1px;
+	margin-bottom: 60px;
+}
+
+.bodytitle h1{
+	margin-left: 32.5%;
+}
+
+body{
+	background-color: lightgray;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin: 0px;
+}
